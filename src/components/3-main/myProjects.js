@@ -1,0 +1,52 @@
+export const myProjects = [
+  {
+    projectTitle: "Billioners",
+    category: ["react"],
+    imgPath: "./images/1.png",
+    linkPath: "https://deploy-billioner.vercel.app/",
+    githubPath: "https://github.com/Mazahir-Hussain-malik?tab=repositories",
+  },
+  {
+    projectTitle: " ORION",
+    category: ["css"],
+    imgPath: "./images/2.png",
+    linkPath: "https://knuckles-nine.vercel.app/",
+    githubPath: "https://github.com/Mazahir-Hussain-malik?tab=repositories",
+  },
+  {
+    projectTitle: "LUDO GAME",
+    category: ["css"],
+    imgPath: "./images/3.png",
+    linkPath: "https://dice-game-two-coral.vercel.app/",
+    githubPath: "https://github.com/Mazahir-Hussain-malik?tab=repositories",
+  },
+  {
+    projectTitle: "Sellivia Business",
+    category: ["react"],
+    imgPath: "./images/4.png",
+    linkPath: "https://saliva-eta.vercel.app/",
+    githubPath: "https://github.com/Mazahir-Hussain-malik?tab=repositories",
+  },
+  {
+    projectTitle: "Humera Cafe",
+    category: ["css"],
+    imgPath: "./images/5.png",
+    linkPath: "https://humera-cafe-website.vercel.app/",
+    githubPath: "https://github.com/Mazahir-Hussain-malik?tab=repositories",
+  },
+  ,
+  {
+    projectTitle: "Asstra Asset",
+    category: ["flutter"],
+    imgPath: "./images/6.png",
+    linkPath: "https://blast-up-main.vercel.app/",
+    githubPath: "https://github.com/Mazahir-Hussain-malik?tab=repositories",
+  },
+  {
+    projectTitle: "0XETH DAO",
+    category: ["flutter"],
+    imgPath: "./images/7.png",
+    linkPath: "https://dao-one-psi.vercel.app/",
+    githubPath: "https://github.com/Mazahir-Hussain-malik?tab=repositories",
+  },
+];
