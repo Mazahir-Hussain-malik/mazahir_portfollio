@@ -43,7 +43,9 @@ export default function Header() {
             <a href="#contact">Contact</a>
           </li>
           <li>
-            <a href="cv.pdf" target="_blank">View Resume</a>
+            <a href="cv.pdf" target="_blank">
+              View Resume
+            </a>
           </li>
         </ul>
       </nav>
@@ -67,7 +69,6 @@ export default function Header() {
           <span className="icon-sun"> </span>
         )}
       </button>
-    
 
       {showModal && (
         <div className="fixed">
@@ -88,11 +89,13 @@ export default function Header() {
               <a href="#projects">Projects</a>
             </li>
             <li>
-            <a href="#contact">Contact</a>
-          </li>
-          <li>
-            <a href="cv.pdf" target="_blank">View Resume</a>
-          </li>
+              <a href="#contact">Contact</a>
+            </li>
+            <li>
+              <a href="cv.pdf" target="_blank">
+                View Resume
+              </a>
+            </li>
           </ul>
         </div>
       )}
