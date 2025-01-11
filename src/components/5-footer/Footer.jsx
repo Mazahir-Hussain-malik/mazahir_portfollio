@@ -12,7 +12,7 @@ export default function Footer() {
         </li>
       </ul>
 
-      <p>© 2024 Spencer Sharp. All rights reserved.</p>
+      <p></p>
     </footer>
   );
 }

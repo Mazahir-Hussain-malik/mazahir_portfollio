@@ -87,6 +87,12 @@ export default function Header() {
             <li>
               <a href="#projects">Projects</a>
             </li>
+            <li>
+            <a href="#contact">Contact</a>
+          </li>
+          <li>
+            <a href="cv.pdf" target="_blank">View Resume</a>
+          </li>
           </ul>
         </div>
       )}

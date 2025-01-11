@@ -26,7 +26,7 @@ export default function Hero() {
         </motion.h1>
 
         <p className="sub-title">
-        I’m Mazahir Hussain, a web developer and UI/UX designer based in Gilgit-Baltistan, Pakistan. Along with my Bachelor’s degree in Computer Science, I have expertise in Node.js, React.js, HTML, CSS, and modern web technologies. I specialize in building dynamic and responsive web applications while creating user-friendly interfaces that provide seamless user experiences. Some of the projects I’m most proud of can be found below.
+        I’m Mazahir Hussain, a web developer and UI/UX designer based in Gilgit-Baltistan, Pakistan. With a Bachelor’s degree in Computer Science, I have professional expertise in React.js and a solid foundation in Node.js, Solidity, HTML, CSS, and modern web technologies. I specialize in building dynamic and responsive web applications while designing user-friendly interfaces that deliver seamless user experiences. Below, you’ll find some of the projects I’m most proud of, showcasing my skills and dedication to quality development.
         </p>
 
         <div className="all-icons flex">
